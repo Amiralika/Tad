@@ -1,8 +1,7 @@
 [
   {
-    "عکس": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۴۵_i0dp.jpg",
-    "متن": "منتظر تولید 4 سالگی فری فایر و سوپرایز هاش هستیم! ",
-    "تبلیغ": "تبلیغ",
+    "عکس": "https://dl.dir.freefiremobile.com/common/web_event/hash/5be02075b8973b8058650620eaab38a3jpg",
+    "متن": "Test",
     "لینک": "http://freefire_plus.renderforestsites.com/"
   }
 ]
